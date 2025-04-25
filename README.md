@@ -1,6 +1,6 @@
 # Opa
 
-Muito prazer me chamo Henrique
+Muito prazer me chamo Henrique Gabriel
 
 - Sou nascido no Brasil
 - Estudante na Unicesumar no curso de Engenharia de Software
