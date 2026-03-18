@@ -1,3 +1,5 @@
+<img src="https://i.redd.it/9gus5pd7tl9z.gif" alt="Dark Souls Pixelart" style="width:auto; height:auto">
+
 # Opa! Muito prazer, me chamo Henrique Gabriel 👋
 *Pronomes: Ele/Dele | 📍 Brasil | 📧 E-mail: HenriqueGOP091306@gmail.com*
 
