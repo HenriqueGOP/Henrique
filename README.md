@@ -1,4 +1,4 @@
-#Opa! Muito prazer, me chamo Henrique Gabriel 👋
+# Opa! Muito prazer, me chamo Henrique Gabriel 👋
 *Pronomes: Ele/Dele | 📍 Brasil | 📧 E-mail: HenriqueGOP091306@gmail.com*
 
 Sou estudante do 2º ano de **Engenharia de Software (3º Semestre)** na **Unicesumar**, apaixonado por tecnologia e por resolver problemas complexos através de código limpo e arquiteturas bem estruturadas. 
