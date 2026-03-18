@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/sfGPGHc.gif" alt="Dark Souls Pixelart Bonfire">
+
 # Opa! Muito prazer, me chamo Henrique Gabriel 👋
 *Pronomes: Ele/Dele | 📍 Brasil | 📧 E-mail: HenriqueGOP091306@gmail.com*
 
@@ -40,7 +42,7 @@ Atualmente, busco minha primeira oportunidade profissional na área de desenvolv
 
 **🗣️ Idiomas:**
 - Português (Nativo)
-- Inglês Intermediario/Avançado
+- Inglês Intermediário/Avançado
 
 ---
 
@@ -49,7 +51,7 @@ Atualmente, busco minha primeira oportunidade profissional na área de desenvolv
 ### 📫 Vamos nos conectar?
 Fique à vontade para me chamar no LinkedIn ou mandar um e-mail direto para batermos um papo. <br><br>
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/henrique-gabriel-de-oliveira-pereira-7b27953b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
